@@ -1,0 +1,9 @@
+1-Hi I have a problem with the Internet.
+2-Tell me what happened.
+1-Well since this morning I couldn't enter to any webpage.
+2-Do you mean that you cant use the net properly because the Internet went off. 
+2-Have I understood that correctly?
+1-Yes, can you help me with that please?
+2-The way you've described this, I can see why you are unhappy.
+2-I'll look into this and get back to you as soon as possible.
+1-Thank you!

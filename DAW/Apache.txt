@@ -1,0 +1,40 @@
+-Aplicaciones que usan Apache
+
+XAMPP(todas las plataformas) HTDOCS
+WAMPServer(Windows)
+BitNami(Se trata de una colección de aplicaciones web comunes, donde puedes encontrar algunas como Wordpress, Drupal, Ghost, Django, Moodle)
+(entornos virtualizados o en servidores basados en la nube, como Amazon o Azure)
+MAMP(Mac OS X)
+LAMP(Linux)
+WAMP(Windows)
+EasyPHP(Windows con PHP sencilla y minimalista)
+NMP Server(Nginx)
+Portable WebServer(Portable para Windows)
+UwAmp(Windows)
+Microsoft WebMatrix(Servidor en la nube como Azure)
+WPB-XM Server(Nginx XDebug MariaDB)
+NAWS (Network Active Web Server)
+Uniform Server(Windows ultraligero)
+DroidPHP(Android Lighttpd)
+AMPPS(Windows MySQL/MongoDB PHP/Python/Perl)
+MEAN(MongoDB ExpressJS AngularJS NodeJS)
+
+-Comandos
+
+apachectl -M
+apachectl -t -d DUMP_MODULES
+ps -ylC apache2(consumo de memoria)
+ps -ylC apache2 | awk '{x += $8;y += 1} END {print "Apache Memory Usage (MB): "x/1024; print "Average Proccess Size (MB):
+"x/((y-1)*1024)}'( calcular el consumo total de memoria)
+ls /usr/lib/apache2/modules (Buscar)
+a2enmod nombre_módulo sin extensión #a2enmod userdir(activar)
+a2dismod nombre_módulo sin extensión #a2dismod userdir(desactivar)
+ln -s /etc/apache2/mods-avaliable/userdir.load /etc/apache2/mods-enabled/userdir.load (enlace simbólico)
+apache2 -l (Enseñar los módulos de apache)
+rm -f /etc/apache2/mods-enabled/userdir.* (Eliminar)
+sudo apt-cache search libapache2-mod (mostrar paquetes disponibles
+sudo a2enmod userdir (Habilitar el módulo userdir)
+
+-Módulos
+
+	
