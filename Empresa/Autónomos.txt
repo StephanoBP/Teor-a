@@ -1,0 +1,61 @@
+Taxista(Empresario Individual) Estima para 2023:
+-Ingresos: 36.000€
+-Gastos: 20.000€
+-Cuotas Seguridad Social: 3.600€
+
+1º.- Calcular Rendimiento Neto Previo 1 => Ingreso - Gastos = 36.000€ - 20.000€ = 16.000€
+2º.- Rendimiento Neto Previo 1 + Cuotas => 16.000€ + 3.600€ = 19.600€ (Rendimiento Neto Previo 2)
+3º.- Rendimiento Neto Previo 2 - (7% Rendimiento Neto Previo 2) => 19.600€ - (7% 19600€) = 18.228€ Rendimiento Neto Anual
+4º.- Rendimiento Neto Anual / 12 Meses => 18.228€ / 12 => 1519€ Rendimiento Neto Mensual 
+5º.- Vamos a la tabla .... => Está entre 1500 y 1700 => {-Base Mínima => 960,78€ - Base Máxima => 1700€
+6º.- Elige la Base Mínima: 90,78€ * 30,60% => 294€/Mes
+
+Ejercicio 1
+
+1º.- 155.000 - 120.000 => 35.000€
+2º.- 35.000 + 3.720 => 38.720€
+3º.- 38.720 - 1.161,6 => 37.558,4 //el 3% al ser SL
+4º.- 37.558,4 / 12 =>  3.129,866666666667€/Mes
+5º.- Entre 2.760 y 3190
+6º.- 1143.79 * 30,60 = 350€/Mes
+
+1er Trabajador
+
+- Felipe INDEFINIDO
+BCCC: 1890 (BCCC) * 23.60% = 445,04€
+Desempleo: 1890 (BCCP) * 5.50% = 103.95€
+F.P: 1890 (BCCP) * 0.6%= 11,34€
+FOGASA: 1890 (BCCP) * 0.2% = 3,89
+AT y EP: 1890 (BCCP) * "5.10%" (LO PONE EN EL EJERCICIO) = 96,39
+EN TOTAL = 661,50€
+
+
+2do Trabajador
+
+-Pedro Lopez Obra o Servicio
+BCCC: 1540 * 23.60% = 363,44€
+Desempleo: 1720 * 6.70 = 115,24€
+F.P: 1720 * 0.6% = 10,32€
+FOGASA: 1720 * 0.2% = 3,44€
+AT y EP: 1720 * 5.10% = 87,72€
+BHE: 180 * 23.60% = 42,48€
+En Total = 622,64€
+
+3er Trabajador
+
+-Marta Cerezo Eventual
+BCCC: 690 * 23.60% = 162,84€
+Desempleo: 690 * 6.70 = 46,23€
+F.P: 690 * 0.6% = 4,14€
+FOGASA: 690 * 0.2% = 1,38€
+AT y EP: 690 * 5.10% = 35,19€
+En Total = 249,78€
+
+Cafetería (Empresario Individual) Estima para 2023:
+
+1º.- 98.000€ - 70.000€ = 28.000€
+2º.- 28.000€ + 3.516 = 31.516€
+3º.- 31.516 - 2.206,12 = 29.309,88€ //7% al ser empresario individual
+4º.- 29.309,88/12 = 2.442,49€/Mes
+5º.- Entre 2330 y 2760
+6º.- 1078,43 * 30.60€ = 330€/Mes 
