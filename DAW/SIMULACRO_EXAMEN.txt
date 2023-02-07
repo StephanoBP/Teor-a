@@ -1,0 +1,10 @@
+Arquitectura de un servidor apache
+Arquitectura de un servidor tomcat
+Componentes de desarrollo J2EE
+Diferencia entre servidor web y servidor de aplicaciones
+Que significa Serverless
+Que significa SPA
+MOD_PHP
+Que es Server.xml
+Como se despliega una aplicacion web diseñada con arquitectura serverless
+Componentes AJP J2EE

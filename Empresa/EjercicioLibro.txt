@@ -1,0 +1,23 @@
+1.
+Maquinaria 100.000€ .
+Capital Social 127.000€ .
+Amortización del inmovilizado material 10.000€ .
+Una flota 50.000€ .
+Tiene mercaderías por valor de 30.000€ .
+Debe a proovedores 1500€ para el mes que viene .
+Debe 8000€ a pagar 11 meses .
+5000€ a 3 años vista .
+Derechos de cobro sobre deudores por valor de 15.000€ .
+Empresa pidió un préstamo de 30000€ 20 meses .
+Caja 500€ .
+Clientes deben 20.000€ .
+Equipo 16.000€ .
+Reservas 50.000€ .
+
+Ratio Solvencia AT/PT = 4.98
+
+Ratio Loquidez AC/PC = 6.89
+
+Ratio Tesorería Deudores + Efectivo /PC = 3.74
+
+Ratio Disponibilidad Efectivo/PC = 0.05€

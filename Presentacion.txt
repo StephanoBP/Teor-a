@@ -1,0 +1,17 @@
+Git como cloud -
+En este apartado es el como estoy usándolo yo y así no necesito traerme el disco duro porque puedo tener todo en git y usarlo desde cualquier dispositivo tan solo copiando el link de git en la terminal o 
+descargando el git en zip.
+Git como base de trabajos -
+En este apartado el uso de git es el mismo que usamos en tareacontinua que hacíamos una rama con cada avance para poder usar de backup la anterior parte por si acaso hubo algún error al pasar a la siguiente fase y siempre 
+queda una copia de seguridad además de poder guardar todo el progreso en git.
+Git como portafolios para presentarte a trabajos -
+En este apartado el uso de git es el mismo que un perfil personal de stackoverflow pero más extenso porque no son solo ayuda a la comunidad o responder preguntas si no que puedes presentar todos tus proyectos y 
+avances que has ido haciendo en distintos lenguajes de programación para demostrar tus habilidades requeridas en el puesto de trabajo y demostrar con algo físico tus aptitudes.
+Git como trabajo en equipo -
+En este apartado el uso de git es el mismo que hicimos el año pasado en el grupo de backend que haciamos avances cada uno por nuestra rama y después de terminar nuestra parte del proyecto los uniamos todos en la 
+rama principal y así no solapar el trabajo del uno con el del otro  o pérdida de información.
+Git como uso en el aprendizaje -
+En este apartado el uso de git es el de poder enseñar a través de esta plataforma distintos tipos de usos de cualquier lenguaje de programación y/o formas distintas de hacer juegos, resolver problemas... 
+Hay infinidad de cosas que puedes hacer para ayudar a aprender a tus alumnos y usarlo como consulta para ayudar a entender mejor la teoría dada
+Conclusión git es un muy buen servicio web multiusos del que todavía no hemos extraído todo su potencial y en el mundo profesional es de lo más usado por lo que tener una buena base en git hace que podamos 
+diferenciarnos del resto al optar a un nuevo puesto de trabajo (igualmente vamos a tener que aprenderlo tarde o temprano).

@@ -1,0 +1,51 @@
+750.000 kilos de producto/año
+50.000 kilos
+Plazo 15 días
+stock 10.417 kilos
+
+a) 750.000/50.000 = 15 productos
+
+b) 360/15 = 24 días
+
+c) 
+2.083,33 Kilos/día
+2.083,33 * 15= 31.249,95 kilos
+31.249,95 + 10.417= 41.666,95 kilos
+
+2do Ejercicio
+
+60k alquiler Coste Fijo
+200k materia prima Coste variable
+10k personal Coste fijo
+260k personal de producción Coste Variable
+140kg dulces anual 
+
+a)
+Coste Fijo: 70.000€
+Coste Variable 460.000€
+Coste Total: 530.000€
+Coste Unitario Fijo: 70000/140000 = 0,5 €/Kilogramos
+Coste Unitario Variable: 460000/70000 = 3,29 €/Kilogramos
+Coste Unitario Total: 530000/140000 = 3,79€/Kilogramos
+
+3er Ejercicio
+
+Coste Fijo: 60k anuales
+Coste Unitario Variable: 12€/Análisis
+PVP: 20€/Análisis
+
+Umbral de Rentabilidad: 60000/ 20-12 = 7.500 análisis.
+
+4to Ejercicio
+Coste Fijo: 10k 
+Costes Unitarios Variables: 4€
+PVP: 6€
+
+Umbral de Rentabilidad: 10000/ 6-4 = 5.000 camisetas.
+
+4to Ejercicio
+
+Costes Fijos: 4k
+Costes Unitarios Variables:3€
+PVP: 5€
+Umbral de Rentabilidad: 4000/ 5-3 = 2.000 comidas.
