@@ -1,0 +1,14 @@
+I : Ingresos Explotación.
+
+II: Gastos Explotación.
+
+A. Resultado Explotación
+
+I:Ingresos Financieros
+II: Gastos Financieros
+
+B. Resultado Financiero
+
+C. Resultado Antes De Impuestos
+	Impuesto de Sociedades
+D. Reultado Después De Impuestos

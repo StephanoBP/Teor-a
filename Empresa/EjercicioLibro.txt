@@ -21,3 +21,33 @@ Ratio Loquidez AC/PC = 6.89
 Ratio Tesorería Deudores + Efectivo /PC = 3.74
 
 Ratio Disponibilidad Efectivo/PC = 0.05€
+
+
+b)
+
+Ganancias y pérdidas a partir de:
+Impuesto sobre sociedades 15% .
+Otros ingresos de explotación 3000€ .
+Gastos de personal 4000€ .
+Importe neto por ventas 50000€ .
+Aprovisionamientos 15000€ .
+Amortización del inmovilizado 10000€ .
+Ingresos financieros 300€ .
+Gastos financieros 2500€ .
+
+Ganancias: 53.300
+Otros ingresos de explotación 3000€
+Importe neto por ventas 50000€
+Ingresos financieros 300€
+
+Pérdidas: 31.500 + 3.270 = 
+Amortización del inmovilizado 10000€
+Gastos financieros 2500€
+Gastos de personal 4000€
+Aprovisionamientos 15000€
+Impuesto sobre sociedades 15%
+
+18.530
+
+
+Rentabilidad Económica: Resultado Explotación/ Activo Total= 24.000/221.500 * 100 = 10,83%

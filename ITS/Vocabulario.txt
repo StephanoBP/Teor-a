@@ -1,0 +1,43 @@
+Coffie Machine - Máquina de café
+Management Consultant - Consultor de administración
+Meeting room - Sala de reuniones
+Company policy - Política de la empresa
+Human resources - Recursos humanos
+Workplace - Lugar de trabajo
+Drive - Conducir	
+Gossip - Cotilleo
+Effort - Esfuerzo
+Spread - Difundir
+News - Noticias
+Smoke - Humo
+Office - Oficina
+Approve - Aprobar
+Drink - Bebida
+Share - Compartir
+Trolley - Carrito
+Compare prices - Comparar precios
+Run up a bill - Acumular una factura
+Try on sweater - Probarse un suéter
+Access a network - Acceder a una red
+Listen to the conversation - Escuchar la conversación
+Influence the decision - Influir en la decisión
+Online - En línea
+WebSite - Sitio web
+Download - Descargar
+Email - Correo electrónico
+Security - Seguridad
+Button - Botón
+Clicked - Hacer clic
+Message - Mensaje
+Crashed - Falló
+Came - Llegó
+Reply - Responder
+Pay - Pagar
+Charge - Cobrar
+Complain - Quejarse
+Flexibility - Flexibilidad
+Home - Hogar
+Office - Oficina
+Local - Local
+Desk - Escritorio
+Commute - Desplazamiento diario

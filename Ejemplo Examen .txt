@@ -1,0 +1,51 @@
+
+1er Ejercicio
+
+A través de la base de datos gesventa implementar los métodos DELETE y UPDATE teniendo en cuenta que:
+
+1.- DELETE sólo se pueda hacer si el usuario es un ádmin
+       1.1.- que en la sección de filtros: 
+               a) solo salga el código
+               b) input tipo texto que sirva para hacer un breve comentario del porqué del borrado, que se va a guardar en $_SESSION,
+
+2.- Del método UPDATE
+      2.1.- sólo el ádmin pueda modificar todo
+      2.2.- los usuarios puedan modificar todo menos cód y pvp
+      2.3.- En la sección de filtros:
+               a) Al administrador salgan todas las columnas
+               b) Al usuario todas menos el código y el pvp.
+
+Se evalua:
+
+1.- Uso de la PDO
+2.- Patrón MVC
+3.- Uso de bucles, condicionales y arrays
+4.- Profundizar en la teoría CRUD
+5.- Manejo de variables superglobales como el $_SESSION y el $_POST.
+
+
+Ejercicio 2:
+
+Hacer un log in de la aplicación GESVENTAS, teniendo en cuenta que:
+
+       1.- Se distinga entre usuario y administrador añadiéndole a la variable $_SESSION['rol'] el $_POST['rol']
+       2.- Dependiendo  del rol del usuario que entre se redirija a una página con rol de administrador o una página con rol de usuario
+       3.- Validar si el usuario y la contraseña son correctas además de si ha iniciado sesión o no.
+
+
+Con a la vista:
+
+        1.- Salga un menú de navegación con los 4 métodos CRUD
+               1.1 En el administrador: Poder borrar, consultar, modificar y añadir usuarios,
+               1.2 En el usuario: Poder borrar, modificar su usuario y consultar todos los usuarios de su mismo rol.
+        2.- Una sección Filtros
+        3.- Un cuerpo con la tabla de respuestas del menú navegación.
+
+Se evalua:
+
+1.- Uso de la PDO
+2.- Patrón MVC
+3.- Uso de bucles, condicionales y arrays
+4.- Profundizar en la teoría CRUD
+5.- Manejo de variables superglobales como el $_SESSION y el $_POST.
+
