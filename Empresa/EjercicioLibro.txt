@@ -16,7 +16,7 @@ Reservas 50.000€ .
 
 Ratio Solvencia AT/PT = 4.98
 
-Ratio Loquidez AC/PC = 6.89
+Ratio Liquidez AC/PC = 6.89
 
 Ratio Tesorería Deudores + Efectivo /PC = 3.74
 
